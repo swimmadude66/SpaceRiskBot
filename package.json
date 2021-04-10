@@ -1,0 +1,26 @@
+{
+  "name": "ti4bot",
+  "version": "0.0.1",
+  "description": "A discord bot for organizing and running TI4 games",
+  "main": "dist/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "swimmadude66",
+  "license": "MIT",
+  "dependencies": {
+    "bufferutil": "4.0.3",
+    "discord.js": "12.5.3",
+    "dotenv": "8.2.0",
+    "erlpack": "0.1.3",
+    "rxjs": "6.6.7",
+    "sodium": "3.0.2",
+    "utf-8-validate": "5.0.4",
+    "zlib-sync": "0.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "14.14.37",
+    "typescript": "4.2.3"
+  }
+}
